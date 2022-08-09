@@ -30,14 +30,6 @@
 
 ## Liver model
 
-<h3> Kernals used for training deep learning model </h3>
-<ul>
-<li><p><b>Kernal for Malaria model :</b>https://www.kaggle.com/shobhit18th/malaria-cell</p></li>
-
-<li><p><b>Kernal for Pneumonia model :</b>https://www.kaggle.com/shobhit18th/keras-nn-x-ray-predict-pneumonia-86-54</p></li>
-<hr>
-</ul>
-
 <h3> Details of various datasets used for model development : </h3>
 <ul>
 <li><p><b>Cancer</b> : cancer.csv [In the repository]</p></li>
@@ -72,7 +64,4 @@
   
   <hr>
   
-  <p> The whole project is deployed on Heroku Cloud.
-  
- <p> Here is the link where you can access the project live : https://myml-mtapp.herokuapp.com/ <p>
   <p> Thank you!</p>
