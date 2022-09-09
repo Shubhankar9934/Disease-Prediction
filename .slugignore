@@ -1,6 +1,8 @@
 *.psd
 *.pdf
 *.csv
-*.h5
+*.png
+*.jpg
+*.jpeg
 /test
 /spec
