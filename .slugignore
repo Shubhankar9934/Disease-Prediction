@@ -4,5 +4,6 @@
 *.png
 *.jpg
 *.jpeg
+*.pyc
 /test
 /spec
